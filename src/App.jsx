@@ -1,6 +1,8 @@
 import { useReducer } from 'react'
 import './App.css'
+// mera name chun chun chu
 //useReducer
+// this a testing
 //useReducer()
 // return [state, dispatch]
 
@@ -14,6 +16,7 @@ import './App.css'
 //reducer
 // state
 // action
+console.log("hello world")
 
 function reducer(state, action) {
   console.log(state, action)
